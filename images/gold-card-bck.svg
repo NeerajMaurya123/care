@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="320px" height="149px" viewBox="0 0 320 149" enable-background="new 0 0 320 149" xml:space="preserve">
+<g id="Group_88686">
+	<g id="Group_88685" transform="translate(20 264.999)">
+		
+			<linearGradient id="Rectangle_6719_1_" gradientUnits="userSpaceOnUse" x1="-371.0146" y1="319.8467" x2="-370.0746" y2="318.8467" gradientTransform="matrix(320 0 0 -149 118714.5 47392.1484)">
+			<stop  offset="0" style="stop-color:#2CA1CF"/>
+			<stop  offset="1" style="stop-color:#60DECD"/>
+		</linearGradient>
+		<path id="Rectangle_6719" fill="url(#Rectangle_6719_1_)" d="M-5-264.999h290c8.284,0,15,6.716,15,15v119c0,8.284-6.716,15-15,15
+			H-5c-8.284,0-15-6.716-15-15v-119C-20-258.283-13.284-264.999-5-264.999z"/>
+	</g>
+</g>
+</svg>
