@@ -1,0 +1,19 @@
+.book_appointment_form2,
+.book_appointment_form3 {
+    display: none;
+    
+}
+
+.arrow {
+    color: orange;
+    cursor: pointer;
+}
+
+.bi-chevron-down {
+    margin-left: 90%;
+    position: absolute;
+    padding-top: 20px;
+    cursor: pointer;
+    color: orange;
+}
+
